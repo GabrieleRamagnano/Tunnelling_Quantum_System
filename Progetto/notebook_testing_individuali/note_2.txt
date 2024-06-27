@@ -1,0 +1,3 @@
+In questa cartella è presente l'intero progetto diviso in parti.
+L'aggiungo per comodità, siccome potrebbe agevolare la lettura e
+rende più semplice la simulazione diretta delle sezioni interessate.

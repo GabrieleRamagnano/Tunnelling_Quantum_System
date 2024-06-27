@@ -1,0 +1,5 @@
+In questi notebook sono presenti delle simulazioni che non sono state inserite nel
+notebook principale. Sono essenzialmente delle "note al margine" dove è possibile
+trovare alcune prove di simulazione che sono state svolte durante la fase di implementazione
+del codice e che tengono traccia del lavoro svolto durante la fase centrale e finale del 
+progetto.
