@@ -46,7 +46,7 @@ Il principale scopo del progetto è simulare l'avanzamento del tempo della parti
 
 1. $V_0 = 0$
 
-<img src="image/square_imaginary_real_psi.jpg" alt="wave_1" width="700" height="400">
+<img src="image/square_imaginary_real_psi.png" alt="wave_1" width="700" height="400">
 
 
 2. $V_0 = - 2\,E_0$
