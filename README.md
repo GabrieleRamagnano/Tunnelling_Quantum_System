@@ -51,28 +51,28 @@ Il principale scopo del progetto è simulare l'avanzamento del tempo della parti
 
 2. $V_0 = - 2\,E_0$
 
-<img src="image/-2E0_V.jpg" alt="wave_2" width="700" height="400">
+<img src="image/-2E0_V.png" alt="wave_2" width="700" height="400">
 
 
 
 3. $V_0 = - \frac{1}{2} E_0$
 
-<img src="image/potential_min.jpg" alt="wave_3" width="700" height="400">
+<img src="image/potential_min.png" alt="wave_3" width="700" height="400">
 
 
 4. $V_0 = + E_0$
 
-<img src="image/inbox_potential.jpg" alt="wave_4" width="700" height="400"> 
+<img src="image/inbox_potential.png" alt="wave_4" width="700" height="400"> 
 
 
 5. $V_0 = + \frac{1}{2} E_0$
 
-<img src="image/potential_step.jpg" alt="wave_5" width="700" height="400">
+<img src="image/potential_step.png" alt="wave_5" width="700" height="400">
 
 
 6. $V_0 = + 2\,E_0$
 
-<img src="image/infront_potential.jpg" alt="wave_6" width="700" height="400">
+<img src="image/infront_potential.png" alt="wave_6" width="6500" height="350">
 
 
 ## Riferimenti
