@@ -72,7 +72,7 @@ Il principale scopo del progetto è simulare l'avanzamento del tempo della parti
 
 6. $V_0 = + 2\,E_0$
 
-<img src="image/infront_potential.png" alt="wave_6" width="6500" height="350">
+<img src="image/infront_potential.png" alt="wave_6" width="650" height="350">
 
 
 ## Riferimenti
