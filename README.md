@@ -49,7 +49,7 @@ Il principale scopo del progetto è simulare l'avanzamento del tempo della parti
 <img src="image/square_imaginary_real_psi.png" alt="wave_1" width="650" height="350">
 
 
-2. $V_0 = - 2\,E_0$
+2. $V_0 = - 2\E_0$
 
 <img src="image/-2E0_V.png" alt="wave_2" width="650" height="350">
 
@@ -70,7 +70,7 @@ Il principale scopo del progetto è simulare l'avanzamento del tempo della parti
 <img src="image/potential_step.png" alt="wave_5" width="650" height="350">
 
 
-6. $V_0 = + 2\,E_0$
+6. $V_0 = + 2\E_0$
 
 <img src="image/infront_potential.png" alt="wave_6" width="650" height="350">
 
